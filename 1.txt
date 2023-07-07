@@ -1,1 +1,1 @@
-market://details?id=6131546230125595193
+https://play.google.com/store/apps/details?id=com.bus.simulator.transport.coach.driving.city
