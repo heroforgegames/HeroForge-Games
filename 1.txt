@@ -1,1 +1,1 @@
-com.king.candycrushsaga
+jp.pokemon.pokemonsleep
